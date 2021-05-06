@@ -13,14 +13,14 @@
 <g id="node1" class="node">
 <title>S0</title>
 <ellipse fill="none" stroke="#000000" cx="29" cy="-49.3216" rx="29" ry="29"/>
-<text text-anchor="middle" x="29" y="-52.7216" font-family="arial" font-size="12.00" fill="#000000">S0</text>
-<text text-anchor="middle" x="29" y="-39.7216" font-family="arial" font-size="12.00" fill="#000000">hold</text>
+<text text-anchor="middle" x="29" y="-52.7216" font-family="arial" font-size="12.00" fill="#000000">(S0)</text>
+<text text-anchor="middle" x="29" y="-39.7216" font-family="arial" font-size="12.00" fill="#000000">begin</text>
 </g>
 <!-- S1 -->
 <g id="node2" class="node">
 <title>S1</title>
 <ellipse fill="none" stroke="#000000" cx="176" cy="-49.3216" rx="29" ry="29"/>
-<text text-anchor="middle" x="176" y="-52.7216" font-family="arial" font-size="12.00" fill="#000000">S1</text>
+<text text-anchor="middle" x="176" y="-52.7216" font-family="arial" font-size="12.00" fill="#000000">(S1)</text>
 <text text-anchor="middle" x="176" y="-39.7216" font-family="arial" font-size="12.00" fill="#000000">generate</text>
 </g>
 <!-- S0&#45;&gt;S1 -->
@@ -34,7 +34,7 @@
 <g id="node3" class="node">
 <title>S2</title>
 <ellipse fill="none" stroke="#000000" cx="347" cy="-49.3216" rx="29" ry="29"/>
-<text text-anchor="middle" x="347" y="-52.7216" font-family="arial" font-size="12.00" fill="#000000">S2</text>
+<text text-anchor="middle" x="347" y="-52.7216" font-family="arial" font-size="12.00" fill="#000000">(S2)</text>
 <text text-anchor="middle" x="347" y="-39.7216" font-family="arial" font-size="12.00" fill="#000000">hold</text>
 </g>
 <!-- S1&#45;&gt;S2 -->
@@ -48,7 +48,7 @@
 <g id="node4" class="node">
 <title>S3</title>
 <ellipse fill="none" stroke="#000000" cx="494" cy="-49.3216" rx="29" ry="29"/>
-<text text-anchor="middle" x="494" y="-52.7216" font-family="arial" font-size="12.00" fill="#000000">S3</text>
+<text text-anchor="middle" x="494" y="-52.7216" font-family="arial" font-size="12.00" fill="#000000">(S3)</text>
 <text text-anchor="middle" x="494" y="-39.7216" font-family="arial" font-size="12.00" fill="#000000">fill</text>
 </g>
 <!-- S2&#45;&gt;S3 -->
@@ -63,7 +63,7 @@
 <title>S4</title>
 <ellipse fill="none" stroke="#000000" cx="617" cy="-49.3216" rx="29" ry="29"/>
 <ellipse fill="none" stroke="#000000" cx="617" cy="-49.3216" rx="33" ry="33"/>
-<text text-anchor="middle" x="617" y="-52.7216" font-family="arial" font-size="12.00" fill="#000000">S4</text>
+<text text-anchor="middle" x="617" y="-52.7216" font-family="arial" font-size="12.00" fill="#000000">(S4)</text>
 <text text-anchor="middle" x="617" y="-39.7216" font-family="arial" font-size="12.00" fill="#000000">hold</text>
 </g>
 <!-- S3&#45;&gt;S4 -->
