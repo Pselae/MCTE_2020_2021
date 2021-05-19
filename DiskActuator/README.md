@@ -1,4 +1,4 @@
-## Power limits on channel flows using the disk actuator theory considering the effect of the free surface.
+## Power limits on channel flows using the disk actuator theory and considering the effect of the free surface.
 
 **Notebooks:**
 
